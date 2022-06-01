@@ -32,11 +32,11 @@ Para enviar la información del usuario a través del formulario de contacto se 
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
-![01  PaginaInicio_1](https://user-images.githubusercontent.com/98922137/165000706-ec9f8aa7-74f5-42fe-b97d-8102b504029d.png)
+![03 1  PaginaInicio_1](https://user-images.githubusercontent.com/98922137/171462265-d5876f0b-050f-4017-a469-43e1abe29e32.jpg)
 
-![02  PaginaInicio_2](https://user-images.githubusercontent.com/98922137/165000707-d34fc1f4-5d31-46b0-81c8-5726de1e3a49.png)
+![03 2  PaginaInicio_1](https://user-images.githubusercontent.com/98922137/171462275-b7eb0a2f-4398-4fd7-973b-75b4783b249d.jpg)
 
-![03  PaginaInicio_3](https://user-images.githubusercontent.com/98922137/165000708-0822a6f9-f420-47b6-abcf-9b9d0099e6a2.png)
+![03 3  PaginaInicio_1](https://user-images.githubusercontent.com/98922137/171462279-64800fee-a268-41f9-833a-a0ea0f2c4cd8.jpg)
 
 ![06  Nuestra misión_1](https://user-images.githubusercontent.com/98922137/165000732-f6fe0235-a8ad-4ea2-94ab-c57a827120ac.jpg)
 
